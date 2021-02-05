@@ -1,4 +1,4 @@
-# List of Projects
+## List of Projects
 - [Airline Safety Visualization](https://nestingen.github.io/Airline-Safety-Visualization-Project/)
 - [Predictive Analytics: Poverty Rate](https://nestingen.github.io/Predictive-Analytics-Poverty-Rate/)
 - [Predictive Anlytics: New York Airbnb](https://nestingen.github.io/Predictive-Analytics-New-York-Airbnb/)
