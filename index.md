@@ -11,6 +11,4 @@
 - [Combining Data Files: Flat File, API, and Website](https://nestingen.github.io/Combining-Data-Flat-File-API-and-Website/)
 - [Case Study: Titanic](https://nestingen.github.io/Case-Study-Titanic/)
 
-
-
 **[Click to Go Back to Homepage](https://nestingen.github.io/)
