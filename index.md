@@ -1,6 +1,7 @@
 ## List of Projects
-- [Airline Safety Visualization](https://nestingen.github.io/Airline-Safety-Visualization-Project/)
-Analysis and Visuals from a project This project walks through a fictional task of communicating airline safety facts with an airline safety organization and the public. The project starts with an investigative analysis that is shown to the analytics team. This focuses on what the safety metrics are for the airline industry. I go on to create an executive summary of these facts. At this point I pull in more financial information that is appropriate for the audience I am presenting to. Next, I created a blog. This was the first step to communicate the information to the public. Finally, I created a video that would also be shown to the public.
+- [Airline Safety Visualization](https://nestingen.github.io/Airline-Safety-Visualization-Project/): Visalizations and analysis in Power BI. Blog, Executive Summary, and Video. 
+<img src= "https://user-images.githubusercontent.com/54515596/107889595-6700db00-6ed9-11eb-890f-9b394bf26119.png" width ="700">
+
 
 - [Predictive Analytics: Poverty Rate](https://nestingen.github.io/Predictive-Analytics-Poverty-Rate/)
 - [Predictive Anlytics: New York Airbnb](https://nestingen.github.io/Predictive-Analytics-New-York-Airbnb/)
