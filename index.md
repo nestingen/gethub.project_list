@@ -15,7 +15,7 @@
 
 - [Predictive Analytics: California Travel](https://nestingen.github.io/Predictive-Analytics-California-Travel/): Data Cleaning in Python, Predictive Analyitics in R, Presentation in Google Slides. 
 <p align="center"> 
-  <img src= "https://user-images.githubusercontent.com/54515596/107890074-97964400-6edc-11eb-9255-a539a926d7c8.png" width ="700">
+  <https://user-images.githubusercontent.com/54515596/107890332-01631d80-6ede-11eb-968b-7d6a176d0fd4.png" width ="700">
 </p>
 
 - [Visuals in R, Python, and Power BI](https://nestingen.github.io/Visuals-in-R-Python-and-PowerBI/)
