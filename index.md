@@ -7,15 +7,15 @@
 - [Predictive Analytics: Poverty Rate](https://nestingen.github.io/Predictive-Analytics-Poverty-Rate/): Analysis in R.
 
 - [Predictive Anlytics: New York Airbnb](https://nestingen.github.io/Predictive-Analytics-New-York-Airbnb/): Analysis in Python with Presentation. 
-
-  img src= "https://user-images.githubusercontent.com/54515596/107889837-e0e59400-6eda-11eb-89d6-37db495021a4.png" width ="700">
-
+<p align="center"> 
+  <img src= "https://user-images.githubusercontent.com/54515596/107889837-e0e59400-6eda-11eb-89d6-37db495021a4.png" width ="700">
+</p>
 
 - [Predictive Analytics: Tube Usage](https://nestingen.github.io/Predictive-Analytics-Tube-Usage/): Analysis in Python. 
 
 - [Predictive Analytics: California Travel](https://nestingen.github.io/Predictive-Analytics-California-Travel/): Data Cleaning in Python, Predictive Analyitics in R, Presentation in Google Slides. 
 <p align="center"> 
-  img src= "https://user-images.githubusercontent.com/54515596/107890074-97964400-6edc-11eb-9255-a539a926d7c8.png" width ="700">
+  <img src= "https://user-images.githubusercontent.com/54515596/107890074-97964400-6edc-11eb-9255-a539a926d7c8.png" width ="700">
 </p>
 
 - [Visuals in R, Python, and Power BI](https://nestingen.github.io/Visuals-in-R-Python-and-PowerBI/)
