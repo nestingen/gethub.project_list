@@ -9,7 +9,7 @@
   <img src="https://user-images.githubusercontent.com/54515596/106980925-b2bbc380-6726-11eb-90e7-b3229ef540e8.png" width="700">
 </p>
 
-- [International Lead Time](https://nestingen.github.io/International-Lead-Time/): Analysis and Report in Qlik Sense
+- [International Lead Time](https://user-images.githubusercontent.com/54515596/108445755-90e03780-7222-11eb-9dc7-74079db83a8b.png): Analysis and Report in Qlik Sense
 <p align="center"> 
   <img src="https://user-images.githubusercontent.com/54515596/108445035-53c77580-7221-11eb-933f-a41e19272d28.png" width ="700">
 </p>
