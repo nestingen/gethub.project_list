@@ -10,6 +10,9 @@
 </p>
 
 - [International Lead Time](https://nestingen.github.io/International-Lead-Time/): Analysis and Report in Qlik Sense
+<p align="center"> 
+  <img src="https://user-images.githubusercontent.com/54515596/108445035-53c77580-7221-11eb-933f-a41e19272d28.png" width ="700">
+</p>
 
 - [Airline Safety Visualization](https://nestingen.github.io/Airline-Safety-Visualization-Project/): Visualizations and analysis in Power BI. Blog, Executive Summary, and Video. 
 <p align="center"> 
